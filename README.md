@@ -15,4 +15,6 @@ details, and how STMX will result in better outcomes for its participants.
 
 INFOWALLETS
 Web: https://STMX-Coin.COM
+smart contracts: https://etherscan.io/token/0xe5fe68179c71d9fb4c1fed2035f4bbff9dc7b967
+Onwer smart contracts: https://etherscan.io/address/0x124cf06a4772f5bb6e9fc20c06e41f9f96ff6f7d
 
